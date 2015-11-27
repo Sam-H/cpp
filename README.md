@@ -1,1 +1,1 @@
-# cpp
+Collection of C++ exercises.
