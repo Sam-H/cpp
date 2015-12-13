@@ -10,6 +10,7 @@ int main () {
   std::string name;
   std::cin >> name ;
 
+  // greeting
   std::cout << "Hello, " << name << "!" << std::endl;
 
 }
